@@ -1,0 +1,32 @@
+.heading{
+    background-color: #483838;
+    color: #ffffff;
+    font-family: 'Alumni Sans Collegiate One', sans-serif;
+    font-size: 30px;
+    margin-top: 0%;
+    box-shadow: 5px 5px 10px #A77979;
+    width:100%;
+    
+}
+.note{
+    font-family: cursive;
+    font-size: 15px;
+    font-weight: bolder;
+    
+}
+.footer{
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    background-color: #704F4F;
+    color: white;
+    width: 100%;
+    line-height: 3;
+
+}
+canvas{
+ border: 5px solid  #483838;
+ box-shadow: 5px 5px 10px #A77979;
+ border-radius: 10%;
+
+}
